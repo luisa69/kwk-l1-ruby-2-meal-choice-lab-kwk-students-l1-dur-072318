@@ -39,4 +39,4 @@ puts dinner(food = "soup")
 def snacks(food = "chips")
   "A good snack is #{food}"
 end 
-puts snack(food = "chips")
+puts snacks(food = "chips")
